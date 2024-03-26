@@ -1,5 +1,8 @@
 ## Passo a Passo para Instalar o Java JDK no Windows
 
+**Antes de tudo:**
+* Verifique se você tem o java instalado na máquina: `java -version` ou `java --version`;
+
 1. **Baixar o JDK**: Acesse o site oficial da Oracle para baixar o JDK. Você pode encontrar a página de downloads em: [Java SE Downloads](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
 2. **Aceitar o Acordo de Licença**: Antes de baixar o JDK, você precisará aceitar o Acordo de Licença da Oracle.
