@@ -8,9 +8,9 @@
 
 4. **Iniciar o Instalador**: Após o download, clique duas vezes no arquivo executável para iniciar o instalador.
 
-5. **Selecionar Local de Instalação**: Durante o processo de instalação, você será solicitado a selecionar o local de instalação. O padrão é geralmente em `C:\Program Files\Java\jdk-xx`.
+5. **Selecionar Local de Instalação**: Durante o processo de instalação, você poderá ser solicitado a selecionar o local de instalação. O padrão é geralmente em `C:\Program Files\Java\jdk-xx`. Caso não seja solicitado, o instalador criará uma pasta como `C:\Program Files\Common Files\Oracle\Java`.
 
-6. **Configurar Variáveis de Ambiente**:
+6. **Configurar Diretamente as Variáveis de Ambiente**:
    - **Variável de Ambiente `JAVA_HOME`**: Esta variável deve apontar para o diretório de instalação do JDK.
      - Clique com o botão direito em "Meu Computador" ou "Este Computador" e selecione "Propriedades".
      - Clique em "Configurações avançadas do sistema" (ou "Configurações avançadas do sistema" no Windows 10).
